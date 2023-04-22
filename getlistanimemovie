@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Thanh gươm diệt quỷ - Đường đi đến làng thợ rèn",
+    "image": "https://images2.thanhnien.com.vn/Uploaded/sangdt/2022_12_11/demon-slayer-5486.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Jujutsu Kaisen 0",
+    "image": "https://o.rada.vn/data/image/2022/04/16/jujutsu-kaisen-0-poster-1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "One Piece Film: Red",
+    "image": "https://trade.abyssecorp.com/2227448-thickbox_default/one-piece-red-poster-movie-poster-915x61.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Last: Naruto the Movie",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjk1NzA4Njg4Ml5BMl5BanBnXkFtZTgwMDgxODQ5MzE@._V1_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Dragon Ball Super: Broly",
+    "image": "https://i.ebayimg.com/images/g/6d0AAOSwSudcVQxX/s-l1600.jpg"
+  },
+  {
+    "id": 6,
+    "title": "My Hero Academia: World Heroes' Mission",
+    "image": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/m/h/mha3_poster_12_1_.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Your Name",
+    "image": "https://m.media-amazon.com/images/I/61KYVvWl-LL._AC_UF894,1000_QL80_.jpg"
+  }
+]
